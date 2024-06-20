@@ -3,7 +3,7 @@ Find more themes: https://linkstack.org/themes/
                                                                                                                                                                          
 *	Theme Name: Chifuyu Custom
 *	Theme Version: 1.0
-*	Theme Date: 2022-11-21
+*	Theme Date: 2024-06-19
 *	Theme Author: ChifuyuSenpai
 *	Theme Author URI: https://chifu.fr
 *	Theme Original Author URI: https://github.com/D3FaltX
