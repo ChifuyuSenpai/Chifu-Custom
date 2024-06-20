@@ -1,13 +1,13 @@
 # A LinkStack Theme
-Find more themes: https://github.com/JulianPrieber/llc-themes
+Find more themes: https://linkstack.org/themes/
                                                                                                                                                                          
-*	Theme Name: ThemeName
+*	Theme Name: Chifuyu Custom
 *	Theme Version: 1.0
-*	Theme Date: YYYY-MM-DD
-*	Theme Author: YourGitHubName
-*	Theme Author URI: https://github.com/YourGitHubName
-*	Theme License: GPLv3
-*	Source code: https://github.com/YourGitHubName/ThemeName
+*	Theme Date: 2022-11-21
+*	Theme Author: ChifuyuSenpai
+*	Theme Author URI: https://chifu.fr
+*	Theme Original Author URI: https://github.com/D3FaltX
+*	Theme License: MIT
 
 
 ### Used assets:
@@ -15,6 +15,11 @@ Find more themes: https://github.com/JulianPrieber/llc-themes
 * https://github.com/dhg/Skeleton
 * License: MIT
 
-*
-* ...
-*
+* Forked from:
+* https://github.com/johnggli/linktree
+* License: MIT -> https://github.com/johnggli/linktree/blob/master/LICENSE.md
+
+* Original author:
+* https://github.com/D3FaltXD/tree
+* License: MIT -> https://github.com/D3FaltXD/tree/blob/main/LICENSE.md
+
